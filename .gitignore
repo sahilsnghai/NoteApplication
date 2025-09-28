@@ -12,7 +12,6 @@ env
 
 
 alembic
-routers
 alembic.ini
 schemas.py
 run.sh
