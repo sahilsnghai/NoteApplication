@@ -10,7 +10,7 @@ env
 .venv
 
 
-database
+
 alembic
 routers
 alembic.ini
