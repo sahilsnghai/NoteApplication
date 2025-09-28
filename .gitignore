@@ -14,3 +14,4 @@ env
 alembic
 alembic.ini
 run.sh
+schemas.py
