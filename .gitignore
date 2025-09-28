@@ -9,8 +9,4 @@ Dockerfile
 env
 .venv
 
-
-
-alembic
-alembic.ini
 run.sh
